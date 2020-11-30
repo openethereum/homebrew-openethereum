@@ -2,9 +2,9 @@ require 'formula'
 
 class Openethereum < Formula
   homepage 'https://github.com/openethereum/openethereum'
-  version '3.0.0'
-  url 'https://openethereum-releases.gnosis.io/v3.0.0/x86_64-apple-darwin/openethereum'
-  sha256 '72d1931b3f4fde77cd439820e967179e400b3fdfa3c3f73b0316481a8cd02ec0'
+  version '3.1.0'
+  url 'https://openethereum-releases.gnosis.io/v3.1.0/macos/openethereum'
+  sha256 'bf172b7807f5b2ebd80774058dd59a7a30f9c4ef135f8f9d0c63bed46efabb97'
 
   def install
     bin.install "openethereum"
