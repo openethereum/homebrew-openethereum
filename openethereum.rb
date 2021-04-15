@@ -2,7 +2,7 @@ require 'formula'
 
 class Openethereum < Formula
   homepage 'https://github.com/openethereum/openethereum'
-  version '3.2.1'
+  version '3.2.3'
   url 'https://openethereum-releases.gnosis.io/v3.2.3/macos/openethereum'
   sha256 '34d38f22dadd97b77feeab6224b68e20e6ce3dc7ff7a34517d410aa983583869'
 
