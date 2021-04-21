@@ -5,6 +5,7 @@ class Openethereum < Formula
   version '3.2.4'
   url 'https://openethereum-releases.gnosis.io/v3.2.4/macos/openethereum'
   sha256 'e543b893f2ac2d03059935aea01db4f088f8eda35aac44857409ead18e616ec7'
+  
   def install
     bin.install "openethereum"
   end
